@@ -1,6 +1,6 @@
 {
   "name": "bona-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "description": "bona自己的库",
   "main": "./lib/bona-utils.umd.min.js",

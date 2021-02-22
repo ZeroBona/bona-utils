@@ -1,5 +1,5 @@
 <template>
-  <div class="bona-button">
+  <div class="button">
     <button>bona的按钮</button>
   </div>
 </template>
